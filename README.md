@@ -1,4 +1,5 @@
 dd-web
 ======
 
-dd web application
+Direct Democracy Web Application
+
